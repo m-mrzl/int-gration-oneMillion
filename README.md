@@ -4,4 +4,5 @@
 
 J'ai effectué cet exercice lors de mon année au sein de **WebForce3** avec mon formateur M.  Guillaume BOUYER.
 
-![alt text](file:///C:/Users/marco/Desktop/exercices/html/OneMillion/index.html "OneMillion")
+Inline-style: 
+![alt text](file:///C:/Users/marco/Desktop/exercices/html/OneMillion/index.html"OneMillion")
