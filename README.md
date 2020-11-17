@@ -1,4 +1,4 @@
-# int-gration-oneMillion
+# integration-oneMillion
 
 ## Exercice effectué lors du cour HTML/CSS  chez WebForce3
 
