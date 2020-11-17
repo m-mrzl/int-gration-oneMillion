@@ -5,4 +5,6 @@
 J'ai effectué cet exercice lors de ma formation au sein de **WebForce3** avec mon formateur M.  Guillaume BOUYER.
 
 
+Inline-style: 
+![alt text](screnshot.png "OneMillion")
 
